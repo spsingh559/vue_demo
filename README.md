@@ -1,5 +1,5 @@
-# Contact Tracing Investigation Portal
-Small project to connect to Ethereum Network and getting the ENS events.
+# Location Portal
+Project to show basic vue js demo
 
 ## Project setup
 ```
