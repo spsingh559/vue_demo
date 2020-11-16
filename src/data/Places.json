@@ -1,0 +1,22 @@
+[
+    {
+       "id":1,
+       "place":"Amsterdam",
+       "country":"Holland"
+    },
+    {
+       "id":2,
+       "place":"London",
+       "country":"England"
+    },
+    {
+       "id":3,
+       "place":"New York",
+       "country":"US"
+    },
+    {
+       "id":4,
+       "place":"Cape Town",
+       "country":"South Africa"
+    }
+ ]

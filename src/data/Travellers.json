@@ -1,0 +1,27 @@
+[
+    {
+       "id":1,
+       "name":"Dave Miller",
+       "places":[
+          "Amsterdam",
+          "New York",
+          "Cape Town"
+       ]
+    },
+    {
+       "id":2,
+       "name":"Glenna Reichert",
+       "places":[
+          "London",
+          "Amsterdam"
+       ]
+    },
+    {
+       "id":3,
+       "name":"Clementina Hilbert",
+       "places":[
+          "Amsterdam",
+          "New York"
+       ]
+    }
+ ]
